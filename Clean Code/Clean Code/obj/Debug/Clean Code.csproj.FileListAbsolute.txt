@@ -1,0 +1,7 @@
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\bin\Debug\Clean Code.exe.config
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\bin\Debug\Clean Code.exe
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\bin\Debug\Clean Code.pdb
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\obj\Debug\Clean Code.csprojResolveAssemblyReference.cache
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\obj\Debug\Clean Code.csproj.CoreCompileInputs.cache
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\obj\Debug\Clean Code.exe
+N:\D.Searle\My Documents\Applications\2018 prelim work\Clean Code\Clean Code\obj\Debug\Clean Code.pdb
